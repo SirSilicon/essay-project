@@ -1,16 +1,33 @@
 h1.title {
-  font-size: 7em; color: black; text-align: center; font-family: helvetica;
+  font-size: 7em; color: white; text-align: center; font-family: helvetica;
+  background-image: url("https://ischool.syr.edu/infospace/wp-content/files/2017/08/artificial-intelligence-feature.jpg");
+  background-repeat: no-repeat; background-position: center;
+  background-color: rgb(28, 37, 89);
 }
 h1 {
-  font-family: monospace; color: #707070; font-size: 2em;
+  font-family: monospace; color: #bababa; font-size: 1.8em; background-color: rgb(76, 91, 178);
 }
 
 h2 {
-  font-family: courier; font-size: 1.35em;
+  font-family: courier; font-size: 1.35em; background-color: rgba(76, 91, 178, 0.5);
+}
+p {
+  background-color: rgba(76, 91, 178, 0.5);
 }
 a {
-  text-decoration: none; font-size: 1.05em; color: inherit;
+  text-decoration: none; font-size: 1.05em; color: #c6c6c6;
+  background-color: rgb(76, 91, 178)
 }
 a.quote {
-  color: white
+  color: white;
+  background-color:rgba(0, 0, 0, 0)
+}
+body {
+  background-image: url("https://media.istockphoto.com/vectors/abstract-technology-binary-code-backgrounddigital-binary-data-and-vector-id811239886?k=6&m=811239886&s=612x612&w=0&h=C-jOlCdieCZN9m39wFnqzQu-pBXkYYS92mIgiVknfiY=");
+}
+div {
+
+}
+footer {
+  background-color: blue
 }
